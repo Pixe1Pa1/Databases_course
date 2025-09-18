@@ -3,7 +3,7 @@ Laboratory work on the course "Databases" in Igor Sikorsky Kyiv Polytechnic Inst
 
 The repository contains laboratory work on the discipline "Databases".
 
-- ### Laboratory work №1. (./lab1/)
+- ### Laboratory work #1. (./lab1/)
  **Topic:** database design and familiarization with basic operations of the PostgreSQL DBMS.
  **Purpose of work:** acquiring database design skills and practical skills in creating relational databases using PostgreSQL.
  
