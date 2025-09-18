@@ -5,6 +5,7 @@ The repository contains laboratory work on the discipline "Databases".
 
 - ### Laboratory work #1. (./lab1/)
  **Topic:** database design and familiarization with basic operations of the PostgreSQL DBMS.
+ 
  **Purpose of work:** acquiring database design skills and practical skills in creating relational databases using PostgreSQL.
  
  **The task of the work is as follows:**
