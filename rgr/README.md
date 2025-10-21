@@ -3,7 +3,7 @@
 ## Short Description
 **Topic**: Creating a database application focused on interacting with the PostgreSQL database. (Development of a C++ console application for managing a PostgreSQL database using the MVC pattern and the SOCI library.)
 
-**Purpose of work:**: acquiring skills in programming PostgreSQL database applications.
+**Purpose of work:** acquiring skills in programming PostgreSQL database applications.
 
 ## Key Tasks
   1. Implement functions for viewing, adding, editing, and deleting data in PostgreSQL database tables.
