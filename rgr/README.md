@@ -2,7 +2,8 @@
 
 ## Short Description
 **Topic**: Creating a database application focused on interacting with the PostgreSQL database. (Development of a C++ console application for managing a PostgreSQL database using the MVC pattern and the SOCI library.)
-**Purpose**: acquiring skills in programming PostgreSQL database applications.
+
+**Purpose of work:**: acquiring skills in programming PostgreSQL database applications.
 
 ## Key Tasks
   1. Implement functions for viewing, adding, editing, and deleting data in PostgreSQL database tables.
@@ -23,7 +24,6 @@ To build the project correctly, you must install the SOCI library and its depend
 
 1. **Install vcpkg:** First, you need to install the vcpkg package manager. This tool automatically downloads, compiles, and integrates libraries into Visual Studio. A detailed installation guide can be found in this video: https://youtu.be/0h1lC3QHLHU?si=1OtInhPu8mZ8n1_P
 2. **Install the SOCI library (with PostgreSQL support):** After setting up vcpkg, open a terminal (PowerShell) in the vcpkg directory and execute the following commands:
-
 - Search for the required package:
   .\vcpkg.exe search soci
 - Install SOCI with the PostgreSQL backend feature for 64-bit Windows:
